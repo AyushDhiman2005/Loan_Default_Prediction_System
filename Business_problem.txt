@@ -1,0 +1,11 @@
+Financial institutions process thousands of loan applications every day. 
+
+Approving loans without accurately assessing the applicant's credit risk can lead to significant financial losses when borrowers fail to repay their loans. 
+
+Conversely, rejecting too many applicants may result in lost business opportunities and reduced customer satisfaction.
+
+Traditional credit assessment methods often rely on manual evaluation and predefined rules, which may not effectively capture complex patterns in customer data. 
+
+As the number of applications increases, banks require a faster, more consistent, and data-driven approach to evaluate creditworthiness.
+
+This project aims to develop a machine learning model that predicts the likelihood of a borrower defaulting on a loan based on historical customer and loan information. By identifying high-risk applicants before loan approval, the bank can make more informed lending decisions, reduce default rates, minimize financial losses, and improve overall risk management.
